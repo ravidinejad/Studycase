@@ -39,9 +39,6 @@ export const Light: Story = {
     },
 };
 
-
-
-
 export const Dark: Story = {
     args: {
         variant: "Gelap",
